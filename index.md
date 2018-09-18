@@ -14,7 +14,7 @@ instructor: ["Jérôme Chaptinel", "Raphaël Grolimund", "Antoine Masson", "Math
 helper: ["TBD - if you are interested in being a helper, please contact us. See address below"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mathilde.panes@epfl.ch"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:"URL"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -37,7 +37,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-#<iframe
+# <iframe
 #  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
 #  frameborder="0"
 #  width="100%"
