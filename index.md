@@ -44,7 +44,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   height="280px"
   scrolling="auto">
 </iframe>
-Registration opening soon 
+<h2 id="general">Registration opening soon </h2>
+
 {% endif %}
 
 
