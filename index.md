@@ -46,9 +46,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h2 id="general">Registration opening soon </h2>
+<h2 id="registration">Registration opening soon </h2>
 
-<h2 style='text-align: justify;' id="general">General Information</h2>
+<h2 id="general">General Information</h2>
 
 {% comment %}
   INTRODUCTION
