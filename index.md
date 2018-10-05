@@ -46,7 +46,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h2 id="registration">Registration opening soon </h2>
+<h2 id="registration">Registration</h2>
+Please register through our booking system following <a href=https://bookwhen.com/fr/epfl_library#focus=ev-sc53-20181120130000>this link</a>. Note that registration is open to EPFL PhD Students and researchers, if you are not part of the EPFL community, please contact us.
+
 
 <h2 id="general">General Information</h2>
 
